@@ -100,6 +100,10 @@ body{
     cursor: pointer;
     transition: all 0.3s ease;
 }
+.buttons .button a{
+    color: #fff;
+    text-decoration: none;
+}
 .buttons .button:hover{
     background-color: #0e4bf1;
 
